@@ -1,7 +1,7 @@
 <div align="center">
 
 # ¡Buenas! Soy José Luis 👋
-### 💻 Desarrollador de Aplicaciones Multiplataforma · Junior Software Developer
+### 💻 Desarrollador de Aplicaciones Multiplataforma · Software Developer
 
 📍 Valencia, España · Spain
 
