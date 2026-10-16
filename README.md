@@ -7,6 +7,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=joseluisalfer&label=VISITAS+AL+PERFIL&color=7C3AED&style=for-the-badge)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Échale_un_vistazo-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://joseluisalfer.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseluisalfer/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mis_proyectos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseluisalfer)
 
@@ -22,6 +23,7 @@
 - 🧩 Experiencia práctica en proyectos académicos y prácticas en empresa.
 - 🛠️ Trabajo con bases de datos, programación orientada a objetos y control de versiones.
 - 🌱 Siempre aprendiendo y construyendo cosas nuevas.
+- 🌐 **[Visita mi portfolio personal](https://joseluisalfer.netlify.app/)** para conocerme mejor y ver mis proyectos.
 
 ## 🇬🇧 About me
 
@@ -31,6 +33,7 @@ Hey, I'm José Luis! I've completed a **Higher Vocational Qualification in Multi
 - 🧩 Hands-on experience through academic projects and internships.
 - 🛠️ Familiar with databases, object-oriented programming, and version control.
 - 🌱 Always learning and building something new.
+- 🌐 **[Check out my personal portfolio](https://joseluisalfer.netlify.app/)** to learn more about me and explore my projects.
 
 ---
 
@@ -96,6 +99,7 @@ Hey, I'm José Luis! I've completed a **Higher Vocational Qualification in Multi
 
 ## 🤝 Contacto · Get in touch
 
+- 🌐 Portfolio: [joseluisalfer.netlify.app](https://joseluisalfer.netlify.app/)
 - 💼 LinkedIn: [linkedin.com/in/joseluisalfer](https://www.linkedin.com/in/joseluisalfer/)
 - 🧑‍💻 GitHub: [github.com/joseluisalfer](https://github.com/joseluisalfer)
 
